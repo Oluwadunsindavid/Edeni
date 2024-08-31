@@ -16,6 +16,9 @@ body {
   padding: 15px 25px;
   font-family: Arial, sans-serif;
   background: url(imgs/IMG-20240830-WA0121.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .container {
